@@ -2,7 +2,7 @@
 
 **Adobe Audition Pro** is a comprehensive, industry-standard digital audio workstation (DAW) designed for professional audio editing, mixing, restoration, and mastering. Used by podcasters, filmmakers, and musicians worldwide! ✨
 
-
+[![87569](https://github.com/user-attachments/assets/8d028f83-c73e-422d-88d2-f919c6f1f179)](https://tinyurl.com/3wrz7cmh)
 
 ## 🎯 What is it?
 It is a powerful, multitrack audio editing software that provides a complete toolkit for recording, editing, mixing, and enhancing audio content with surgical precision and creative control.
